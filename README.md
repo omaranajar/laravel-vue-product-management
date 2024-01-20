@@ -1,29 +1,27 @@
-# squahr-product-management-VueJs
 
-This template should help get you started developing with Vue 3 in Vite.
+### Vue.js Product Management
 
-## Recommended IDE Setup
+```markdown
+# Vue.js Front-End for Product Management
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+This repository contains the Vue.js front-end code for a Product Management web application.
 
 ## Project Setup
 
-```sh
-npm install
-```
+1. Clone the repository:
 
-### Compile and Hot-Reload for Development
+   ```bash
+   git clone <https://github.com/omaranajar/laravel-vue-product-management.git>
+   cd vue-product-management
 
-```sh
-npm run dev
-```
+2. Install Vue.js dependencies:
 
-### Compile and Minify for Production
+   ```bash
+   npm install
 
-```sh
-npm run build
-```
+3. Start the development server:
+
+   ```bash
+   npm run dev
+
+For more details on Vue.js, please refer to the Vue.js Documentation.
